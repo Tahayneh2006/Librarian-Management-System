@@ -1,1 +1,2 @@
 # Librarian-Management-System
+A Python-based desktop application designed to streamline core library operations. This project focuses on building a resilient backend architecture, featuring robust file handling for persistent data storage and comprehensive exception handling to ensure system stability against unexpected user inputs. Additionally, the system integrates matplotlib to generate visual analytics and track library metrics over time.
